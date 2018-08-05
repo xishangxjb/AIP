@@ -1,2 +1,3 @@
-# test and change the file
-# configure the envirnoment for expressjs
+# Practice with the commands of git
+# Configure the envirnoment for expressjs
+# Create a simple TODO LIST APP
